@@ -1,0 +1,6 @@
+name: SkMusic
+author: amacz13
+description: Music in Skript is fun!
+version: 2.0.0
+main: fr.amacz13.skmusic.SkMusic
+depend: [Skript, NoteBlockAPI]
